@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "io.ideasjaed.github/pokedex",
+      "package": "com.jazmin.pokedex",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
